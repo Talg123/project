@@ -1,0 +1,1 @@
+﻿export { ResponseObj } from './response.interface'
